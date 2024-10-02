@@ -38,9 +38,11 @@ If you find a bug or have a feature request, please submit an issue by following
 
 1. Navigate to the **Issues** tab of the repository.
 2. Click on the **New Issue** button.
-3. Fill out the issue template with the necessary details. Please include:
-   - A brief description of the issue.
-   - Screenshots (if applicable) to illustrate the problem.
+3. Issue Description:
+Provide a brief and clear description of the issue here.
+
+Screenshots (if applicable):
+Attach any relevant screenshots that illustrate the problem. If no screenshots are available, remove this line.
 
 ## Submitting Pull Requests 🔄
 
